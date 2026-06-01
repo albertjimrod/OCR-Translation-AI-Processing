@@ -19,8 +19,12 @@ Bash automation for converting document images to translated text using OCR and 
 
 ## Workflow
 
-```
-Image → ImageMagick (preprocess) → Tesseract (OCR) → Ollama (translate/enhance) → Output
+```mermaid
+flowchart LR
+    IMG[Image] --> IM[ImageMagick\npreprocess]
+    IM --> TESS[Tesseract\nOCR extraction]
+    TESS --> OLL[Ollama\ntranslate / enhance]
+    OLL --> OUT[Output text]
 ```
 
 ---
