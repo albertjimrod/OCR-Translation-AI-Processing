@@ -153,6 +153,14 @@ ssh -L 11434:localhost:11434 usuario@servidor-gpu
 
 ---
 
+## Uso responsable
+
+Este script es una herramienta de automatización de propósito general. El código en sí no contiene ni distribuye contenido con copyright.
+
+El usuario es responsable de asegurarse de que tiene acceso legítimo al contenido que procesa (libro prestado, dominio público, licencia abierta) y de que el uso que hace del resultado es personal o educativo. No está pensado para la distribución masiva de contenido protegido.
+
+---
+
 ## Licencia
 
 MIT License
