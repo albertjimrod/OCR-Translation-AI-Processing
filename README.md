@@ -1,3 +1,9 @@
+<div align="center">
+  <img src=".github/assets/portfolio.png" width="100%"/>
+</div>
+
+---
+
 # OCR, Translation & AI Processing Pipeline
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
